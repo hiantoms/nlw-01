@@ -1,4 +1,6 @@
 Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS. 
+
+
 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
